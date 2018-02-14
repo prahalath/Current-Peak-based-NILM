@@ -1,0 +1,35 @@
+101 - Living Room Desk Lamp
+102 - Living Room Tall Desk Lamp
+103 - Garage Door
+108 - Kitchen Aid Chopper
+111 - Refrigerator
+112 - Living Room A/V System
+118 - Computer 1
+120 - Laptop 1
+123 - Basement Receiver/DVR/Blueray Player
+127 - Air Compressor
+128 - LCD Monitor 1
+129 - TV
+131 - Printer
+132 - Hair Dryer
+134 - Iron
+135 - Living Room Empty Socket
+140 - Monitor 2
+147 - Backyard Lights
+148 - Washroom Light
+149 - Office lights
+150 - Closet light
+151 - Upstairs hallway light
+152 - Hallway stairs light
+153 - Kitchen hallway light
+155 - Kitchen overhead light
+156 - Bathroom upstairs lights
+157 - Dining Room overhead light
+158 - Bedroom lights
+159 - Basement lights
+204 - Circuit 4
+207 - Circuit 7
+209 - Circuit 9
+210 - Circuit 10
+211 - Circuit 11
+>1000 - Unknown appliance
